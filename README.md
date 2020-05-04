@@ -1,6 +1,6 @@
 ﻿# EMOJI CYCLONE
 
-overview: https://outofsocial.github.io/emoji-emoji-cyclone/
+overview: https://outofsocial.github.io/emoji-cyclone/
 
 emoji donut
 
